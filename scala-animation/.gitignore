@@ -1,6 +1,6 @@
 /.idea/
-/.DS_Store/
+/.DS_Store
 /project/project
 /project/target
 /target/
-src.DS_Store
+/src/.DS_Store
